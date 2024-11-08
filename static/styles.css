@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1, h2 {
+    text-align: center;
+}
+form, ul {
+    max-width: 400px;
+    margin: 0 auto;
+}
+input, textarea, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
